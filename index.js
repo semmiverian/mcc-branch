@@ -1,0 +1,1 @@
+console.log('Ihh kok gampang hari ini 🤓')
