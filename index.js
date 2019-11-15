@@ -1,1 +1,2 @@
-console.log('Ihh kok gampang hari ini 🤓')
+console.log('Masa sih kayaknya ribet 🤯')
+console.log('Perubahan selalu ada')
